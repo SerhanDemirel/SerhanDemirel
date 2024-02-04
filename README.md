@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=serhandemirel&label=Profile%20views&color=0e75b6&style=flat" alt="serhandemirel" /> </p>
 
-- 🔭 I’m currently working on **React.js, Asp.net Core**
+- 🔭 I’m currently working on **React.js, Asp.net Core , C#**
 
 - 🌱 I’m currently learning **Node.js, Express, Asp.Net Core**
 
